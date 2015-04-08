@@ -8,6 +8,8 @@ Notes and Resource Links
 * Ember JS
 * mithril 
   * https://lhorie.github.io/mithril/
+* skit
+  * http://skitjs.com/
 
 # Training / Workshops
 
