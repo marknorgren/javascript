@@ -1,6 +1,12 @@
 # javascript
 Notes and Resource Links
 
+# Resources
+
+## ECMAScript 6 (ES6)
+
+* https://github.com/lukehoban/es6features
+
 # Frameworks
 
 * AngularJS
