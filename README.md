@@ -16,6 +16,8 @@ Notes and Resource Links
   * https://lhorie.github.io/mithril/
 * skit
   * http://skitjs.com/
+* ampersand
+  * https://ampersandjs.com/
 
 # Training / Workshops
 
